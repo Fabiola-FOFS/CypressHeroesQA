@@ -5,7 +5,7 @@
 
 
 # Cypress Heroes Demo Application
-## how to install and run the
+## installing the demo and original tests
 This is a demo application that shows how to use Cypress to run end-to-end,
 component, and API tests against an application.
 
