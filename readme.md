@@ -1,5 +1,11 @@
-# Cypress Heroes Demo Application
+# My cypress heroes test suite - under construction ...
+1. I deleted the original test folders
+2. I reinstalled Cypress
+3. I started testing using the login spec
 
+
+# Cypress Heroes Demo Application
+## how to install and run the
 This is a demo application that shows how to use Cypress to run end-to-end,
 component, and API tests against an application.
 
@@ -56,3 +62,4 @@ npm run resetdb
 The client app uses an environment variable to know what the URL is for the
 backend api named `VITE_API_URL`. It defaults to "http://localhost:3001" for use
 in dev mode, and should be overriden in other environments/modes.
+
